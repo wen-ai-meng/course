@@ -1,0 +1,98 @@
+
+.container-fluid{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar{
+  border-radius: 0px;
+  background-color: #000;
+}
+
+.navbar-brand{
+  font-size: 40px;
+  color: white;
+  padding-left: 25px;
+}
+
+.navbar-brand:hover{
+  color: white;
+}
+
+.nav{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-nav{
+  font-size: 25px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-toggle{
+  border: 2px solid white;
+  margin-right: 25px;
+}
+
+.icon-bar{
+  background-color: white;
+}
+
+
+.main-title{
+  margin-bottom: 15px;
+  text-align: center;
+  color: #ff4532;
+  font-size: 55px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+li{
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.menu-item{
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  background-color: white;
+  border-bottom: 1px solid black;
+  color: black;
+  display: block;
+}
+
+.menu-item:hover{
+  background-color: #ff4532;
+  color: #ff4532;
+}
+
+
+
+.row{
+  margin: 20px;
+}
+
+.content-box{
+  margin: 20px;
+  width: auto;
+  height: auto;
+  color: black;
+  background-color: #9f9c9c;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
+  text-align: justify;
+}
+
+.item-name{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#top{
+
+}
